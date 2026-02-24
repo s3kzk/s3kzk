@@ -1,0 +1,10 @@
+{
+  "name": "s3kzk",
+  "version": "1.0.0",
+  "description": "s3kzkを感じる...",
+  "bin": {
+    "s3kzk": "./bin/s3kzk.mjs"
+  },
+  "type": "module",
+  "license": "MIT"
+}
